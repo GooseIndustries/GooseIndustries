@@ -4,7 +4,7 @@
 - 💞️ We're looking to collaborate on whatever is available
 - 📫 How to reach us: GitHub, GooseIndustriesOfficial@outlook.com
 - 😄 Pronouns: why do you wanna know??? were a team
-- ⚡ Fun fact: got none
+- ⚡ Fun fact: we screwed up so ALL HONEYHONK REPOS ARE GETTING SHUT DOWN UNTIL WE FIX THIS
 
 GooseIndustries/GooseIndustries is a ✨ special (wait our team is special?) ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
